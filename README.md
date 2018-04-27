@@ -7,4 +7,4 @@
 
 ![](https://github.com/TopProHatsker/avtopoliv/blob/master/20180427_204954_resized.jpg)
 ![](https://github.com/TopProHatsker/avtopoliv/blob/master/20180427_205001_resized.jpg) 
-![](https://github.com/TopProHatsker/avtopoliv/blob/master/308.jpg)
+![](https://github.com/TopProHatsker/avtopoliv/blob/master/318.jpg)
