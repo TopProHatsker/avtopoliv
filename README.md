@@ -5,5 +5,5 @@
 
 ```Этот проект придумал, разработал и собрал готовое устройство сам.```
 
-![]()
+![](https://github.com/TopProHatsker/avtopoliv/blob/master/20180427_204954_resized.jpg)
 ![]()
