@@ -21,3 +21,6 @@
 ![](https://github.com/TopProHatsker/avtopoliv/blob/master/318.jpg)
 ![](https://github.com/TopProHatsker/avtopoliv/blob/master/20180427_20413df4.jpg)
 ![](https://github.com/TopProHatsker/avtopoliv/blob/master/04141.jpg)
+
+## Прошивка:
+вам понадобится []().
