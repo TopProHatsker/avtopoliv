@@ -23,4 +23,4 @@
 ![](https://github.com/TopProHatsker/avtopoliv/blob/master/04141.jpg)
 
 ## Прошивка:
-вам понадобится [avtopoliv_home-work]().
+вам понадобится [avtopoliv_home-work](https://github.com/TopProHatsker/avtopoliv/blob/master/avtopoliv_home-work.ino).
